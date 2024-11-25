@@ -1,8 +1,8 @@
 # Flipping Card (like ATM Card)
 
 ![Preview](/Asserts/Screenshot-Front.PNG)
-(/Asserts/Screenshot-back.PNG)
-(/Asserts/ScreenRecord.mp4)
+![Preview](/Asserts/Screenshot-back.PNG)
+![Preview](/Asserts/ScreenRecord.mp4)
 
 A simple and interactive flipping card project that mimics an ATM card flip animation. Perfect for learning or demonstrating CSS animations, 3D effects, and JavaScript interactivity.
 
